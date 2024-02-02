@@ -1,0 +1,11 @@
+A,B,C,D,E,F
+RandomString1,Value2,Number3,Object4,Array5,Null6
+String8,Value9,Number10,Object11,False12,Empty13
+List14,Value15,Number16,Object17,True18,None19
+DateTime20,Value21,Number22,Object23, Null24, None25
+Regex26,Value27,Number28,Object29, False30, Empty31
+Set32,Value33,Number34,Object35, True36,Subset37
+Map38,Value39,Number40,Object41, Null42, Empty43
+Function44,Value45,Number46,Object47, Boolean48, Undefined49
+Symbol50,Value51,Number52,Object53, String54, NULL55
+Date56,Value57,Number58,Object59, Void60, Nil61
