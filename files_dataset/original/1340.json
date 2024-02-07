@@ -1,0 +1,10 @@
+{"A":"RandomString1","B":"Value2","C":"RandomString3","D":"Value4","E":"RandomString5","F":"Value6"}
+{"A":"NumberString1","B":"LetterString2","C":"DigitString3","D":"SymbolString4","E":"UppercaseString5","F":"LowercaseString6"}
+{"A":"AlphaNumericString1","B":"NumberedString2","C":"SpecialCharacterString3","D":"UppercaseFirstString4","E":"LowercaseSecondString5","F":"RepeatingCharactersString6"}
+{"A":"SequenceOfCharsString1","B":"MixedCaseString2","C":"PunctuationMarkString3","D":"UnicodeString4","E":"NonAlphanumericString5","F":"URLString6"}
+{"A":"CombinationOfCharsString1","B":"CapitalizedWordString2","C":"SmallLetterString3","D":"EmojiconString4","E":"HTMLTagString5","F":"ScientificNotationString6"}
+{"A":"LongestStringString1","B":"ShortestStringString2","C":"RandomlyGeneratedString3","D":"ComplexNumberString4","E":"RandomlySortedString5","F":"AlphabeticSequenceString6"}
+{"A":"PalindromeString1","B":"AnagrammedString2","C":"ReverseString3","D":"ComplementaryColorString4","E":"HexadecimalCodeString5","F":"LeadingZeroesString6"}
+{"A":"KittyString1","B":"FelineString2","C":"WhiskerString3","D":"MeowString4","E":"CatnipString5","F":"PurrString6"}
+{"A":"SnowflakeString1","B":"WinterSceneString2","C":"IceSkaterString3","D":"ChristmasTreeString4","E":"SantaClausString5","F":"SledString6"}
+{"A":"LemonString1","B":"LimeString2","C":"OrangeString3","D":"TangerineString4","E":"GrapefruitString5","F":"LemonyGoodnessString6"}

@@ -1,0 +1,10 @@
+{"A":"RandomString1","B":"Value2","C":"RandomString3","D":"Value4","E":"RandomString5","F":"Value6"}
+{"A":"Number1","B":"LetterString2","C":"DigitSequence3","D":"AlphaNumeric7","E":"SymbolCombination8","F":"SpecialCharacter9"}
+{"A":"UppercaseWord10","B":"LowercaseWord11","C":"PunctuationMark12","D":"Symbol13","E":"Emphasis14","F":"NonAlphanumericCharacters15"}
+{"A":"FirstLetterCapitalized16","B":"SecondLetterLowercase17","C":"ThirdLetterNumber18","D":"FourthLetterSymbol19","E":"FifthLetterSpace20","F":"SixthLetterSpecialCharacter21"}
+{"A":"RandomStringWithSpaces22","B":"ValueWithTabs23","C":"RandomStringWithNewlines24","D":"ValueWithLineBreaks25","E":"RandomStringWithCarriageReturns26","F":"ValueWithControlChars27"}
+{"A":"AlphaNumericSequences28","B":"DigitsAndLetters29","C":"SymbolsAndPunctuation30","D":"RandomlyGenerated strings31","E":"MixedCaseAndNumbers32","F":"SpecialCharsAndSymbols33"}
+{"A":"ReverseWords34","B":"Palindromes35","C":"Anagrams36","D":"AcronymsAndAbbreviations37","E":"InitialismsAndPortmanteaus38","F":"SyllableDividedWords39"}
+{"A":"RandomColorCode40","B":"HexadecimalNumber41","C":"RGBValues42","D":"HTMLColors43","E":"CSSColors44","F":"PythonColors45"}
+{"A":"JSONObject46","B":"XMLDocument47","C":"YAMLMap48","D":"PropertiesFile49","E":"INIFiles50","F":"RegularExpressions51"}
+{"A":"URLEncodedString52","B":"Base64EncodedString53","C":"URLEncodedForm54","D":"Base64DecodedString55","E":"QueryParameters56","F":"HTTPHeaders57"}
